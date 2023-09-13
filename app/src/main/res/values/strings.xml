@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ui-template</string>
+    <string name="icon_description">Icon Description</string>
+    <string name="cart">Cart</string>
+    <string name="items_in_cart">Items in Cart</string>
+    <string name="sausage_pizza">Sausage pizza</string>
+    <string name="_5_8">$5.8</string>
+    <string name="_1_packet">1 Packet</string>
+    <string name="recipet">Recipet</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="_0_0">$0.0</string>
+    <string name="delivery">Delivery</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="confirm_order">Confirm Order</string>
+</resources>

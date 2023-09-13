@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ui-template</string>
+    <string name="cart">Sepetim</string>
+    <string name="items_in_cart">Sepetteki Ürün</string>
+    <string name="sausage_pizza">Sucuklu Pizza</string>
+    <string name="_5_8">5.8₺</string>
+    <string name="_1_packet">1 Paket</string>
+    <string name="recipet">Tutar</string>
+    <string name="subtotal">Sepet tutarı</string>
+    <string name="discount">İndirim</string>
+    <string name="_0_0">$0.0</string>
+    <string name="delivery">Teslimat Ücreti</string>
+    <string name="total_amount">Toplam Tutar</string>
+    <string name="confirm_order">Siparişi Onayla</string>
+</resources>
